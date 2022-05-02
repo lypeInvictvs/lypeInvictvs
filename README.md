@@ -1,5 +1,5 @@
 ### Hi there 👋
-![MySQL](https://img.shields.io/badge/mysql-%20F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%20f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
