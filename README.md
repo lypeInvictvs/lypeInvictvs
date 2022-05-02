@@ -1,5 +1,9 @@
 ### Hi there 👋
-![MySQL](https://img.shields.io/badge/mysql-%000B1D.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%20F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
 <!--
 **FelypeInvictus/FelypeInvictus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
