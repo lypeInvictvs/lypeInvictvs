@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelypeInvictus&show_icons=true&theme=darcula)
+
 
 ### Languages
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -17,7 +19,11 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Prototyping tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelypeInvictus&hide=portugol&layout=compact&theme=darcula)](https://github.com/FelypeInvictus/github-readme-stats)
+
 
 
 
