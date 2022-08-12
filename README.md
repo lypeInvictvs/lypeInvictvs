@@ -1,6 +1,6 @@
 <span align="center">
-<h1> Invictus Aeternus</h1>
-<h2>Invictus Ad infinitum</h2>
+<h1> Invictus aeternus</h1>
+<h2>Invictus ad infinitum</h2>
 <p> Ars totum requirit hominem </p>
 </span>
 
