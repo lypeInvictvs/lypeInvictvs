@@ -1,11 +1,22 @@
+<!-- Olá, curioso(a) -->
+
+
+![Profile Views hehe](https://komarev.com/ghpvc/?username=FelypeInvictus&color=red&style=float)
+
 <span align="center">
 <h1> Invictus aeternus</h1>
 <h2>Invictus ad infinitum</h2>
 <p> Ars totum requirit hominem </p>
 </span>
 
+
+
+<h3 align="center">
+ &nbsp; Hey, I am Felype ⚡
+</h3>
+
 <div align="center">
-  
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelypeInvictus&show_icons=true&theme=darcula)
 
 
