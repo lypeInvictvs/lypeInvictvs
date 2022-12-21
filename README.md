@@ -30,9 +30,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelypeInvictus&show_icons=true&theme=darcula)
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/89306240/208958311-b1cf1267-8bd7-46ce-9893-cdb4a625a7dd.jpg" width="200" align="middle">
-</div>
+
 
 ### Languages
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -74,7 +72,9 @@
 
 </div>
 
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/89306240/208957350-543713a3-b5c8-4d0b-9122-a201ded494d3.png" width="133" align="middle">
+</div>
 
 
 
@@ -85,9 +85,9 @@
 
 
 
-https://user-images.githubusercontent.com/89306240/208957350-543713a3-b5c8-4d0b-9122-a201ded494d3.png
-Here are some ideas to get you started:
 
+Here are some ideas to get you started:
+https://user-images.githubusercontent.com/89306240/208960632-7fc4b4d5-d319-4bb2-a13e-4cacdb948dfd.png
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
