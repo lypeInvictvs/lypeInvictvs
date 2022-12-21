@@ -18,7 +18,7 @@
 </h3>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/89306240/208949709-94aa6f1d-a513-409e-b40d-ebb65c315a84.jpg" width="350" align="middle">
+<img src="https://user-images.githubusercontent.com/89306240/208952148-67b2053b-ad63-477d-9110-71f6ff025356.png" width="350" align="middle">
 </div>
 <br>
 <div align="center">
