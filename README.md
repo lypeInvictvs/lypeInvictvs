@@ -9,6 +9,8 @@
 
 ![Profile Views hehe](https://komarev.com/ghpvc/?username=FelypeInvictus&color=red&style=float)
 
+
+
 <span align="center">
 <h1> Invictus aeternus</h1>
 <h2>Invictus ad infinitum</h2>
@@ -22,11 +24,15 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/89306240/208957055-64e11a9f-a7e5-4903-8c3f-cfce7e29add1.png" width="350" align="middle">
 </div>
+
 <br>
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelypeInvictus&show_icons=true&theme=darcula)
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/89306240/208958311-b1cf1267-8bd7-46ce-9893-cdb4a625a7dd.jpg" width="200" align="middle">
+</div>
 
 ### Languages
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -69,9 +75,7 @@
 </div>
 
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/89306240/208957350-543713a3-b5c8-4d0b-9122-a201ded494d3.png" width="133" align="middle">
-</div>
+
 
 
 
@@ -79,6 +83,9 @@
 <!--
 **FelypeInvictus/FelypeInvictus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+https://user-images.githubusercontent.com/89306240/208957350-543713a3-b5c8-4d0b-9122-a201ded494d3.png
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
