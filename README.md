@@ -22,7 +22,7 @@
 </h3>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/89306240/208957055-64e11a9f-a7e5-4903-8c3f-cfce7e29add1.png" width="350" align="middle">
+<img src="https://user-images.githubusercontent.com/89306240/208957055-64e11a9f-a7e5-4903-8c3f-cfce7e29add1.png" width="250" align="middle">
 </div>
 
 <br>
