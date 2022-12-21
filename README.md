@@ -1,6 +1,9 @@
 <!-- Olá, curioso(a) -->
 
-![modus invictus insanus](https://user-images.githubusercontent.com/89306240/208924372-924b902b-d557-43e3-947d-9415b46739c1.jpg)
+<!-- ![modus invictus insanus](https://user-images.githubusercontent.com/89306240/208924372-924b902b-d557-43e3-947d-9415b46739c1.jpg) -->
+
+
+
 
 ![Profile Views hehe](https://komarev.com/ghpvc/?username=FelypeInvictus&color=red&style=float)
 
@@ -10,12 +13,14 @@
 <p> Ars totum requirit hominem </p>
 </span>
 
-
-
 <h3 align="center">
  &nbsp; Hey, I am Felype ⚡
 </h3>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/89306240/208949709-94aa6f1d-a513-409e-b40d-ebb65c315a84.jpg" width="350" align="middle">
+</div>
+<br>
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelypeInvictus&show_icons=true&theme=darcula)
