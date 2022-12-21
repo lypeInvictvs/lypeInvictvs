@@ -1,5 +1,6 @@
 <!-- Olá, curioso(a) -->
 
+![modus invictus insanus](https://user-images.githubusercontent.com/89306240/208924372-924b902b-d557-43e3-947d-9415b46739c1.jpg)
 
 ![Profile Views hehe](https://komarev.com/ghpvc/?username=FelypeInvictus&color=red&style=float)
 
