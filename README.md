@@ -2,7 +2,9 @@
 
 <!-- ![modus invictus insanus](https://user-images.githubusercontent.com/89306240/208924372-924b902b-d557-43e3-947d-9415b46739c1.jpg) -->
 
+<!--https://user-images.githubusercontent.com/89306240/208952148-67b2053b-ad63-477d-9110-71f6ff025356.png-->
 
+<!--https://user-images.githubusercontent.com/89306240/208956052-9bb4525b-07f2-4ced-9730-c35af7cb93d3.png-->
 
 
 ![Profile Views hehe](https://komarev.com/ghpvc/?username=FelypeInvictus&color=red&style=float)
@@ -18,7 +20,7 @@
 </h3>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/89306240/208952148-67b2053b-ad63-477d-9110-71f6ff025356.png" width="350" align="middle">
+<img src="" width="350" align="middle">
 </div>
 <br>
 <div align="center">
