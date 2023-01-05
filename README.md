@@ -74,6 +74,7 @@
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/89306240/208957350-543713a3-b5c8-4d0b-9122-a201ded494d3.png" width="133" align="middle">
+ <p>طريق القتال هو طريق الحياة.</p>
 </div>
 
 
