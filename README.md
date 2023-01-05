@@ -11,13 +11,13 @@
 </div>
 
 <div align="center">
-<h3>Invictus aeternus</h3>
-<h4>Invictus ad infinitum</h4>
-<p> Ars totum requirit hominem </p>
+<h3>INVICTUS AETERNUS</h3>
+<h4>INVICTUS AD INFINITUM</h4>
+<p> ARS TOTUM REQUIRIT HOMINEM </p>
 </div>
 
 <h5 align="center">
- &nbsp; Hey, I am Felype ⚡
+ &nbsp; HEY, I AM FELYPE ⚡
 </h5>
 
 <div align="center">
