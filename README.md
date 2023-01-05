@@ -2,29 +2,26 @@
 
 <!-- ![modus invictus insanus](https://user-images.githubusercontent.com/89306240/208924372-924b902b-d557-43e3-947d-9415b46739c1.jpg) -->
 
-<!--https://user-images.githubusercontent.com/89306240/208952148-67b2053b-ad63-477d-9110-71f6ff025356.png-->
-
-<!--https://user-images.githubusercontent.com/89306240/208956052-9bb4525b-07f2-4ced-9730-c35af7cb93d3.png-->
 
 
 ![Profile Views hehe](https://komarev.com/ghpvc/?username=FelypeInvictus&color=red&style=float)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/89306240/210785095-86657f29-63f7-474d-ab0d-aeb52b27e521.png" width="250" align="middle">
+<img src="https://user-images.githubusercontent.com/89306240/210785095-86657f29-63f7-474d-ab0d-aeb52b27e521.png" width="233" align="middle">
 </div>
 
-<span align="center">
-<h1> Invictus aeternus</h1>
-<h2>Invictus ad infinitum</h2>
+<div align="center">
+<h3>Invictus aeternus</h3>
+<h4>Invictus ad infinitum</h4>
 <p> Ars totum requirit hominem </p>
-</span>
+</div>
 
-<h3 align="center">
+<h5 align="center">
  &nbsp; Hey, I am Felype ⚡
-</h3>
+</h5>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/89306240/208957055-64e11a9f-a7e5-4903-8c3f-cfce7e29add1.png" width="250" align="middle">
+<img src="https://user-images.githubusercontent.com/89306240/208957055-64e11a9f-a7e5-4903-8c3f-cfce7e29add1.png" width="200" align="middle">
 </div>
 
 <br>
