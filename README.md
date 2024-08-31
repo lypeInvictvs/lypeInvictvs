@@ -24,10 +24,10 @@
 <p>
 My name is Felype, I am a full-stack developer looking for exciting opportunities in the software development field. <br>
 I am a Systems Developer graduated from the famous educational institution in Brazil (SENAI) and I am looking to improve my coding skills.</p>
+
 </div>
-
  <div align="right">
-
+ 
 
 <hr>
 
@@ -35,7 +35,7 @@ I am a Systems Developer graduated from the famous educational institution in Br
 <!-- <p> ARS TOTUM REQUIRIT HOMINEM </p>-->
 </div>
 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFC438?style=for-the-badge&logo=todoist&logoColor=white)](https://felyperangel.vercel.app/)
 
 
 <!--<div align="center">
