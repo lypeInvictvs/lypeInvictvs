@@ -10,14 +10,16 @@
 
 
 <div align="left">
-<img src="https://user-images.githubusercontent.com/89306240/210785095-86657f29-63f7-474d-ab0d-aeb52b27e521.png" width="233" align="middle">
-
-
+<img src="https://user-images.githubusercontent.com/89306240/210785095-86657f29-63f7-474d-ab0d-aeb52b27e521.png" width="233" align="left">
+<p>
+My name is Felype, I am a programming enthusiast looking for exciting opportunities in the software development field. <br>
+I am a Systems Developer graduated from the famous educational institution in Brazil (SENAI) and I am looking to improve my coding skills.</p>
 </div>
 
  <div align="right">
-<h3>INVICTUS AETERNUS</h3>
-<h4>INVICTUS AD INFINITUM</h4>
+
+<p>INVICTUS AETERNUS</p>
+<p>INVICTUS AD INFINITUM</p>
 <!-- <p> ARS TOTUM REQUIRIT HOMINEM </p>-->
 </div>
 
@@ -63,6 +65,7 @@
 ### Interested in:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Prototyping tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
