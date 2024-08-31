@@ -28,7 +28,7 @@ I am a Systems Developer graduated from the famous educational institution in Br
 
  <div align="right">
 
-<p>INVICTUS AETERNUS <br> INVICTUS AD INFINITUM </p>
+
 <hr>
 
 <!-- <p>INVICTUS AD INFINITUM</p>-->
@@ -43,10 +43,15 @@ I am a Systems Developer graduated from the famous educational institution in Br
 </div> -->
 
 <br>
+
+<div align="right">
+<img src="https://felyperangel.vercel.app/assets/img/293263670b8780146ab0c4e40a2ea890.gif" width="100" align="right">
+<p>INVICTUS AETERNUS <br> INVICTUS AD INFINITUM </p>
+
+</div>
+
 <div align="center">
 
-<br>
-<br>
 <br>
 <br>
 <br>
