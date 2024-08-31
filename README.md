@@ -17,9 +17,7 @@
 <hr>
 
 <br>
-<br>
-<br>
-<br>
+
 
 <div align="left">
 <img src="https://user-images.githubusercontent.com/89306240/210785095-86657f29-63f7-474d-ab0d-aeb52b27e521.png" width="233" align="left">
@@ -47,6 +45,8 @@ I am a Systems Developer graduated from the famous educational institution in Br
 <br>
 <div align="center">
 
+<br>
+<br>
 <br>
 <br>
 <br>
