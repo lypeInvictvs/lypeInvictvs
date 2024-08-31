@@ -90,7 +90,7 @@ I am a Systems Developer graduated from the famous educational institution in Br
     </td>
     <td align="right">
      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lypeInvictvs&show_icons=true&theme=great-gatsby)
-#
+
 ### Knowledge
 
 ![Html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -109,7 +109,7 @@ I am a Systems Developer graduated from the famous educational institution in Br
 
 ### Prototyping tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-#    
+   
   </td>
   </tr>
 </table>
