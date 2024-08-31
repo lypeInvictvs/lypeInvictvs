@@ -45,8 +45,25 @@ I am a Systems Developer graduated from the famous educational institution in Br
 <br>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lypeInvictvs&show_icons=true&theme=great-gatsby)
+<br>
+<br>
+<br>
+<br>
+<br>
 
+<!--### OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)-->
+
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="left">
+     
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lypeInvictvs&hide=portugol&layout=compact&theme=great-gatsby)](https://github.com/lypeInvictvs/github-readme-stats)
 
 ### Languages
 <!--![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
@@ -57,10 +74,13 @@ I am a Systems Developer graduated from the famous educational institution in Br
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<!--### OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)-->
+### Interested in
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    </td>
+    <td align="right">
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lypeInvictvs&show_icons=true&theme=great-gatsby)
 
 ### Knowledge
 
@@ -68,23 +88,26 @@ I am a Systems Developer graduated from the famous educational institution in Br
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+#
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-### Interested in:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+
 
 ### Prototyping tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+    
+  </td>
+  </tr>
+</table>
 
 
 
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lypeInvictvs&hide=portugol&layout=compact&theme=great-gatsby)](https://github.com/lypeInvictvs/github-readme-stats)
 
 </div>
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/89306240/208957350-543713a3-b5c8-4d0b-9122-a201ded494d3.png" width="133" align="middle">
