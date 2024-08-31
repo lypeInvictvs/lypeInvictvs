@@ -7,16 +7,19 @@
 
 ![Profile Views hehe](https://komarev.com/ghpvc/?username=lypeInvictvs&color=red&style=float)
 
-<div align="center">
+
+
+<div align="left">
 <img src="https://user-images.githubusercontent.com/89306240/210785095-86657f29-63f7-474d-ab0d-aeb52b27e521.png" width="233" align="middle">
+
+
+</div>
 
  <div align="right">
 <h3>INVICTUS AETERNUS</h3>
 <h4>INVICTUS AD INFINITUM</h4>
 <!-- <p> ARS TOTUM REQUIRIT HOMINEM </p>-->
 </div>
-</div>
-
 
 
 <h5 align="center">
@@ -31,8 +34,7 @@
 <br>
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lypeInvictvs&show_icons=true&theme=darcula)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lypeInvictvs&show_icons=true&theme=great-gatsby)
 
 
 ### Languages
@@ -68,7 +70,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lypeInvictvs&hide=portugol&layout=compact&theme=darcula)](https://github.com/lypeInvictvs/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lypeInvictvs&hide=portugol&layout=compact&theme=great-gatsby)](https://github.com/lypeInvictvs/github-readme-stats)
 
 </div>
 
