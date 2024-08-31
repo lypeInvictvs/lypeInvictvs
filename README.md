@@ -71,11 +71,12 @@ I am a Systems Developer graduated from the famous educational institution in Br
 <!--![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+#
 
 ### Editors/IDEs
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+#
 ### Interested in
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -83,7 +84,7 @@ I am a Systems Developer graduated from the famous educational institution in Br
     </td>
     <td align="right">
      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lypeInvictvs&show_icons=true&theme=great-gatsby)
-
+#
 ### Knowledge
 
 ![Html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -96,11 +97,11 @@ I am a Systems Developer graduated from the famous educational institution in Br
 
 
 
-
+#
 
 ### Prototyping tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-    
+#    
   </td>
   </tr>
 </table>
