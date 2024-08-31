@@ -4,17 +4,20 @@
 
 
 
+
 ![Profile Views hehe](https://komarev.com/ghpvc/?username=lypeInvictvs&color=red&style=float)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/89306240/210785095-86657f29-63f7-474d-ab0d-aeb52b27e521.png" width="233" align="middle">
-</div>
 
-<div align="center">
+ <div align="right">
 <h3>INVICTUS AETERNUS</h3>
 <h4>INVICTUS AD INFINITUM</h4>
 <!-- <p> ARS TOTUM REQUIRIT HOMINEM </p>-->
 </div>
+</div>
+
+
 
 <h5 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=FFD714D2&center=true&width=435&lines=Hello%2C+I+am+Felype+%E2%9A%A1;Hallo%2C+Ich+heisse+Felype+%E2%9A%A1;Hola%2C+Yo+soy+Felype+%E2%9A%A1;Salut%2C+je+suis+Felype+%E2%9A%A1;%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7+%D8%8C+%D8%A3%D9%86%D8%A7+%D9%81%D9%8A%D9%84%D9%8A%D8%A8%D9%8A.;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E8%B4%B9%E5%88%A9%E4%BD%A9%E3%80%82;%E0%A4%B9%E0%A5%88%E0%A4%B2%E0%A5%8B%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%AB%E0%A5%87%E0%A4%B2%E0%A4%BF%E0%A4%AA%E0%A5%87+%E0%A4%B9%E0%A5%82%E0%A4%82%E0%A5%A4;Ol%C3%A1+conterr%C3%A2neos%2C+eu+sou+o+Felype+%E2%9A%A1" alt="Typing SVG" /></a>
