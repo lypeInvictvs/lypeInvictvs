@@ -13,7 +13,7 @@
 <div align="center">
 <h3>INVICTUS AETERNUS</h3>
 <h4>INVICTUS AD INFINITUM</h4>
-<p> ARS TOTUM REQUIRIT HOMINEM </p>
+<!-- <p> ARS TOTUM REQUIRIT HOMINEM </p>-->
 </div>
 
 <h5 align="center">
@@ -21,9 +21,9 @@
  <!-- &nbsp; HEY, I AM FELYPE ⚡ -->
 </h5>
 
-<div align="center">
+<!--<div align="center">
 <img src="https://user-images.githubusercontent.com/89306240/208957055-64e11a9f-a7e5-4903-8c3f-cfce7e29add1.png" width="200" align="middle">
-</div>
+</div> -->
 
 <br>
 <div align="center">
