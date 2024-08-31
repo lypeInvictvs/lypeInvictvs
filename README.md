@@ -37,6 +37,7 @@ I am a Systems Developer graduated from the famous educational institution in Br
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFC438?style=for-the-badge&logo=todoist&logoColor=white)](https://felyperangel.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felype-r/)
+Discord	[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/)
 
 
 <!--<div align="center">
