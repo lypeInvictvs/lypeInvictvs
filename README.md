@@ -114,6 +114,7 @@ I am a Systems Developer graduated from the famous educational institution in Br
 <div align="center">
 <img src="https://user-images.githubusercontent.com/89306240/208957350-543713a3-b5c8-4d0b-9122-a201ded494d3.png" width="133" align="middle">
  <p>طريق القتال هو طريق الحياة.</p>
+  <a href='https://ko-fi.com/G2G812OU3M' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 
